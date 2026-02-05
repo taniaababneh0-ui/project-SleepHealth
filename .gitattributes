@@ -1,2 +1,0 @@
-orders.csv filter=lfs diff=lfs merge=lfs -text
-orders_products__prior filter=lfs diff=lfs merge=lfs -text
